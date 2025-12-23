@@ -16,3 +16,5 @@
 - ViewModel
 - Navigation
 - Material3
+
+- Для проверки необходимо распаковать и открыть архив в Android Studio
